@@ -3,3 +3,17 @@ git add
 git status 
 git branch
 git push
+
+
+Summary:
+1. GitHub is something which provides internet hosting for software development and version control using git. 
+2. This helps us to work on projects on our own or among our collegues in an organised fashion. It can also be described as a social media platform for coders.
+3. We can give access rights to public and also can be operated privately.
+4. We can operate it either by github web interface, github desktop, or through commands.
+5. In order to post any repository on our server through commands, firstly we need to create a new repository on our account.
+6. Then we need to copy the ssh url generated to clone that repository and use the git clone <url> to clone our repository.
+7. Then we can add new files or edit the existing files on the repository using our general linux commands(touch, cat).
+8. Then we need to add the changes using git add command.
+9. In order to push our changes, first we need to use git branch command and then use git push origin main.
+10. If you have any doubt regarding how to proceed further during this process, use git status command.
+11. You can use git pull command in order to bring the new changes happened to our file. 
